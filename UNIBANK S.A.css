@@ -1,0 +1,359 @@
+.div1
+{
+	background-color: #276fb9;
+}
+header
+{
+	width: 15%;
+	display: inline-block;
+	border: 1px solid #276fb9;
+	color: white;
+}
+.logo{
+	width: 100%;
+	height: 70px;
+	border:1px solid black;
+}
+.back{
+	text-decoration: none;
+}
+
+.menu1{
+	display: inline-block;
+	width:70%;
+	border:1px solid #276fb9;
+	margin-left: 90px;
+	vertical-align: top;
+	color: white;
+	font-size: 110%;
+}
+
+
+ul li{
+	display: inline-block;
+	margin-right: 2%;	
+	padding: 5px;
+	margin-top: 5px;
+	border-radius:10px;
+	font-size: 80%;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+}
+.divP1
+{
+	width: 100%;
+	position: relative;
+	background-image: url("BannerUnimobile_UBhaiti-1.jpg");
+	height: 570px;
+}
+.divp2
+{
+	
+	background-color: white;
+	width: 25%;
+	position: absolute;
+	right: 5%;
+	top: 30px;
+	padding: 5px;
+}
+.unibankonline
+{
+	background-color: #ecc516;
+	color:blue;
+	padding: 10px;
+	text-align: center;
+}
+.divp2 input
+{
+	width: 85%;
+	margin: 0px 5% 10px 5%;
+	height: 25px;
+}
+.connexion
+{
+	background-color: #1a65ba;
+	color: white;
+	border: 1px solid #1a65ba;
+}
+.divp2 a
+{
+	text-decoration: none;
+}
+.divp2 a:hover
+{
+	border-bottom: 1px solid blue;
+}
+.h32
+{
+	background-color: #1a65ba;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.h32:hover
+{
+	background-color: #ecc516;
+	color: #1a65ba;
+}
+.coul{
+	color: red;
+	font-size: 70%;
+	margin-left: 35%;
+}
+.p
+{
+	width: 20%;
+	display: inline-block;
+	margin-left: 20px;
+}
+.p1{
+	display: inline-block;
+}
+.divp2 table
+{
+	width: 100%;
+	text-align: right;
+}
+.div2 div img
+{
+width:100px;
+height:100px;
+}
+section
+{
+	position: relative;
+}
+.div2 div
+{
+	width: 15%;
+	text-align: center;
+	display: inline-block;
+	margin-right: 9%;
+	margin-bottom: 20px;
+}
+.div2
+{
+	
+	width: 75%;
+	height: 350px;
+}
+.div3
+{
+	display: inline-block;
+
+	position: absolute;
+	top:100px;
+	right: 0px;
+}
+.div3 img
+{
+	margin-bottom: 10px;
+}
+.h4
+{
+	display: inline-block;
+	margin-right: 5%;
+
+	width: 15%;
+}
+.h4 b
+{
+	font-size: 200%;
+}
+.grandiv
+{
+	width: 100%;
+	display: inline-flex;
+	
+	background-color: #0358ad;
+}
+.content
+{
+	width: 25%;
+	
+	background-color: #0c3d7e;
+	color: white;
+}
+.content img
+{
+	width: 100%;
+	padding-top: 70px;
+}
+.content a
+{
+	text-decoration: none;
+	color: white;
+}
+.content a:hover
+{
+	border-bottom: 1px solid white;
+}
+.conseil
+{
+	width: 25%;
+	height: 500px;
+	color: white;
+	
+}
+.conseil a
+{
+	text-decoration: none;
+	color: white;
+}
+.conseil a:hover
+{
+	border-bottom: 1px solid white;
+}
+.conseil img
+{
+	width: 100%;
+	padding-top: 70px;
+}
+.cont
+{
+	width: 45%;
+	margin-top: 70px;
+}
+.cover
+{
+	width: 100%;
+	position:relative;
+	
+}
+.cover img
+{
+	width: 100%;
+}
+.nom
+{
+	position: absolute;
+	bottom: 30px;
+	color:white;
+	width: 100%;
+	
+}
+.nom a
+{
+	text-decoration: none;
+	color:white;
+}
+.index img
+{
+	display: inline-block;
+	width: 19.5%;
+}
+.index
+{
+width: 100%;
+
+}
+.index img:hover{
+	width: 20.5%;
+}
+.divGn
+{
+	padding-top: 50px;
+	background-color: #f5f5f5;
+}
+.div4, .div41
+ {
+	display: inline-block;
+	width: 30%;
+	margin-left: 1%;
+	padding: 1%;
+	font-size: 90%;
+
+}
+.div41
+{
+	border-right: 1px solid #dddddd;
+	border-left: 1px solid #dddddd;
+}
+.bleu
+{
+	font-size: 100%;
+	color: #084d99;
+}
+
+/*Carte de credit*/
+.Principale
+{
+	width: 100%;
+}
+.Secondaire
+{
+	width: 100%;
+	position: relative;
+}
+.Secondaire .banner
+{
+	width: 100%;
+}
+.divv1
+{
+	position: absolute;
+	top: 0px;
+	background-color: rgba(39,111,185, 0.8);
+	width: 100%;
+}
+.jaune 
+{
+	color: white;
+	font-size: 180%;
+	margin-left: 5%;
+}
+.gris
+{
+	font-size: 90%;
+	margin-left: 60%;
+	border:1px solid black;
+	width: 30%;
+}
+.aa
+{
+	background-color: #004b97;
+	color: white;
+}
+.divJ
+{
+	width: 100%;
+	background-color: #eeeeee;
+	display: inline-flex;
+}
+.orange
+{
+	display: inline-block;
+	width: 20%;
+	vertical-align: top;
+	margin-top: 30px;
+}
+.orange a{
+	text-decoration: none;
+	color: #205fad;
+	border-bottom: 2px solid gray;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.w{
+	width: 15%;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 30px;
+	margin-left: 15%;
+}
+.mangue
+{
+width: 45%;
+display: inline-block;
+vertical-align: top;
+margin-top: 30px;
+text-align: justify;
+}
+.carotte
+{
+font-size: 130%;
+color: #004b97;
+border-bottom: 2px solid #004b97;
+}
